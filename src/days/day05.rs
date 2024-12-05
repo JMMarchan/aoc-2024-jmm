@@ -106,8 +106,8 @@ mod tests {
     }
 
     #[test]
-    fn test_sum_correct_updates() {
+    fn test_sum_updates() {
         let input = test_input().lines().collect::<Vec<&str>>();
-        assert_eq!(sum_correct_updates(&input), 143);
+        assert_eq!(sum_updates(&input), 143);
     }
 }
