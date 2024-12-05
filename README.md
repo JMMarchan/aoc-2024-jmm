@@ -1,4 +1,4 @@
-# aoc-2023-jmm
+# aoc-2024-jmm
 
 This repository contains my Rust solutions for [Advent of Code 2024](https://adventofcode.com/2024),
 using [agubelu/AoC-rust-template](https://github.com/agubelu/AoC-rust-template/tree/master).
